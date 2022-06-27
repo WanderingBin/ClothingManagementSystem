@@ -1,0 +1,28 @@
+{
+  "name": "ClothingManagement",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@element-plus/icons": "^0.0.11",
+    "@element-plus/icons-vue": "^2.0.5",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "axios": "^0.27.2",
+    "element-plus": "^2.2.5",
+    "qs": "^6.10.5",
+    "vue": "^3.0.4",
+    "vue-router": "^4.0.16",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@iconify-json/ep": "^1.1.5",
+    "@vue/compiler-sfc": "^3.0.4",
+    "sass": "^1.52.2",
+    "unplugin-auto-import": "^0.8.7",
+    "unplugin-icons": "^0.14.3",
+    "unplugin-vue-components": "^0.19.6",
+    "vite": "^2.9.10"
+  }
+}
